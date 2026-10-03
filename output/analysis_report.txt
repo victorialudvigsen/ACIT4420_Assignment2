@@ -1,0 +1,148 @@
+==================================================
+Session: FIT-2026-001
+Participant: Amina Noor (P001)
+Usable observations: 6
+Classification: resting
+Reason: Average heart rate and activity are close to resting values.
+
+Heart rate:
+  Average: 68.83
+  Minimum: 68
+  Maximum: 70
+
+Activity level:
+  Average: 0.09
+
+Temperature:
+  Average: 32.43
+
+Skin response:
+  Average: 1.19
+
+Difference from reference values:
+  Heart rate: 0.83
+  Temperature: 0.03
+  Skin response: -0.01
+
+==================================================
+Session: FIT-2026-002
+Participant: Jonas Berg (P002)
+Usable observations: 6
+Classification: moderate activity
+Reason: Heart rate and activity indicate moderate activity.
+
+Heart rate:
+  Average: 102.0
+  Minimum: 78
+  Maximum: 118
+
+Activity level:
+  Average: 0.5
+
+Temperature:
+  Average: 33.13
+
+Skin response:
+  Average: 2.01
+
+Difference from reference values:
+  Heart rate: 28.0
+  Temperature: 0.43
+  Skin response: 0.56
+
+==================================================
+Session: FIT-2026-003
+Participant: Maya Chen (P003)
+Usable observations: 6
+Classification: high activity
+Reason: Heart rate or activity level is clearly elevated.
+
+Heart rate:
+  Average: 132.5
+  Minimum: 72
+  Maximum: 162
+
+Activity level:
+  Average: 0.75
+
+Temperature:
+  Average: 33.53
+
+Skin response:
+  Average: 3.24
+
+Difference from reference values:
+  Heart rate: 69.5
+  Temperature: 1.23
+  Skin response: 2.14
+
+==================================================
+Session: FIT-2026-004
+Participant: Amina Noor (P001)
+Usable observations: 6
+Classification: recovering
+Reason: Heart rate and activity decreased after a period of clear activity.
+
+Heart rate:
+  Average: 113.17
+  Minimum: 72
+  Maximum: 151
+
+Activity level:
+  Average: 0.55
+
+Temperature:
+  Average: 33.28
+
+Skin response:
+  Average: 2.58
+
+Difference from reference values:
+  Heart rate: 45.17
+  Temperature: 0.88
+  Skin response: 1.38
+
+==================================================
+Session: FIT-2026-005
+Participant: Jonas Berg (P002)
+Usable observations: 0
+Classification: insufficient data
+Reason: Fewer than three usable observations are available.
+
+No usable measurements were available.
+
+==================================================
+Session: FIT-2026-101
+Participant: Amina Noor (P001)
+Usable observations: 1
+Classification: insufficient data
+Reason: Fewer than three usable observations are available.
+
+Heart rate:
+  Average: 72.0
+  Minimum: 72
+  Maximum: 72
+
+Activity level:
+  Average: 0.1
+
+Temperature:
+  Average: 32.5
+
+Skin response:
+  Average: 1.3
+
+Difference from reference values:
+  Heart rate: 4.0
+  Temperature: 0.1
+  Skin response: 0.1
+
+==================================================
+Session: FIT-2026-102
+Participant: Jonas Berg (P002)
+Usable observations: 0
+Classification: insufficient data
+Reason: Fewer than three usable observations are available.
+
+No usable measurements were available.
+

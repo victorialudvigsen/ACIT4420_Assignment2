@@ -1,0 +1,8 @@
+session_id,participant_id,participant_name,usable_observations,classification,reason,average_heart_rate,average_activity,average_temperature,average_skin_response
+FIT-2026-001,P001,Amina Noor,6,resting,Average heart rate and activity are close to resting values.,68.83,0.09,32.43,1.19
+FIT-2026-002,P002,Jonas Berg,6,moderate activity,Heart rate and activity indicate moderate activity.,102.0,0.5,33.13,2.01
+FIT-2026-003,P003,Maya Chen,6,high activity,Heart rate or activity level is clearly elevated.,132.5,0.75,33.53,3.24
+FIT-2026-004,P001,Amina Noor,6,recovering,Heart rate and activity decreased after a period of clear activity.,113.17,0.55,33.28,2.58
+FIT-2026-005,P002,Jonas Berg,0,insufficient data,Fewer than three usable observations are available.,,,,
+FIT-2026-101,P001,Amina Noor,1,insufficient data,Fewer than three usable observations are available.,72.0,0.1,32.5,1.3
+FIT-2026-102,P002,Jonas Berg,0,insufficient data,Fewer than three usable observations are available.,,,,

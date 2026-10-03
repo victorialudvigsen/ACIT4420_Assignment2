@@ -1,0 +1,75 @@
+File: fitness_sessions.csv
+Row: 26
+Field: signal_quality
+Reason: Signal quality is below the minimum accepted level of 0.5.
+--------------------------------------------------
+File: fitness_sessions.csv
+Row: 27
+Field: signal_quality
+Reason: Signal quality is below the minimum accepted level of 0.5.
+--------------------------------------------------
+File: fitness_sessions.csv
+Row: 28
+Field: signal_quality
+Reason: Signal quality is below the minimum accepted level of 0.5.
+--------------------------------------------------
+File: fitness_sessions.csv
+Row: 29
+Field: signal_quality
+Reason: Signal quality is below the minimum accepted level of 0.5.
+--------------------------------------------------
+File: fitness_sessions.csv
+Row: 30
+Field: signal_quality
+Reason: Signal quality is below the minimum accepted level of 0.5.
+--------------------------------------------------
+File: fitness_sessions_invalid.csv
+Row: 3
+Field: heart_rate
+Reason: Value must be a whole number: fast
+--------------------------------------------------
+File: fitness_sessions_invalid.csv
+Row: 4
+Field: participant_id
+Reason: Invalid participant ID: 001
+--------------------------------------------------
+File: fitness_sessions_invalid.csv
+Row: 5
+Field: activity_level
+Reason: Required value is missing.
+--------------------------------------------------
+File: fitness_sessions_invalid.csv
+Row: 6
+Field: signal_quality
+Reason: Signal quality must be between 0 and 1.
+--------------------------------------------------
+File: fitness_sessions_invalid.csv
+Row: 7
+Field: session_id
+Reason: Invalid session ID: FIT-26-102
+--------------------------------------------------
+File: fitness_sessions_invalid.csv
+Row: 8
+Field: participant_id
+Reason: Unknown participant ID: P999
+--------------------------------------------------
+File: fitness_sessions_invalid.csv
+Row: 9
+Field: timestamp
+Reason: Value must be a whole number: two
+--------------------------------------------------
+File: fitness_sessions_invalid.csv
+Row: 10
+Field: heart_rate
+Reason: Heart rate must be between 35 and 205 bpm.
+--------------------------------------------------
+File: fitness_sessions_invalid.csv
+Row: 11
+Field: skin_response
+Reason: Skin response cannot be negative.
+--------------------------------------------------
+File: fitness_sessions_invalid.csv
+Row: 12
+Field: row
+Reason: Unexpected number of fields.
+--------------------------------------------------
